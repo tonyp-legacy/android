@@ -37,7 +37,7 @@
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
   <project path="device/lge/p990" name="pengus77/android_device_lge_p990" revision="jb-412" />
-  <project path="device/lge/star-common" name="pengus77/android_device_lge_star-common" revision="jb-412" />
+  <project path="device/lge/star-common" name="tonypp/android_device_lge_star-common" revision="jb-412" />
   <project path="vendor/lge" name="pengus77/proprietary_vendor_lge.git" revision="jb-412" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
