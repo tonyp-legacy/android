@@ -38,6 +38,9 @@
   <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
+  <project path="device/lge/p990" name="tonypp/android_device_lge_p990" revision="cm10.1-newbl" />
+  <project path="device/lge/star-common" name="tonypp/android_device_lge_star-common" revision="cm10.1-newbl" />
+  <project path="vendor/lge" name="tonypp/proprietary_vendor_lge.git" revision="tony_pacm" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
@@ -266,6 +269,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+  <project path="kernel/lge/star" name="tonypp/private-penguin-party" remote="private" revision="kk-new-bl" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
